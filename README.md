@@ -9,6 +9,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takaryo1010&theme=nord_bright)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takaryo1010)](https://github.com/takaryo/github-profile-trophy)
+![Altテキスト](github-user-contribution.svg)
+
+
+
 <!--
 **takaryo1010/takaryo1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
