@@ -2,7 +2,14 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=takaryo1010) [![My Qiita posts](https://qiita-badge.apiapi.app/s/takaryo1010/posts.svg)](http://qiita.com/takaryo1010) [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20|@takaryo1010)](https://twitter.com/takaryo1010) <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+![](https://komarev.com/ghpvc/?username=takaryo1010) [![My Qiita posts](https://qiita-badge.apiapi.app/s/takaryo1010/posts.svg)](http://qiita.com/takaryo1010) [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20|@takaryo1010)](https://twitter.com/takaryo1010) 
+## I have a little experience
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com/ja/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/java-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a> 
+<a href="https://js.org/index.html" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takaryo1010&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takaryo1010&theme=nord_bright)
