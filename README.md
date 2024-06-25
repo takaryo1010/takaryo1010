@@ -8,7 +8,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com/ja/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/java-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a> 
-<a href="https://js.org/index.html" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
+<a href="https://ts.org/index.html" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
 ### I have very little experience.
 
 <a   target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
