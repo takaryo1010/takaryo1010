@@ -22,8 +22,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takaryo1010&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takaryo1010&theme=nord_bright)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takaryo1010)](https://github.com/takaryo/github-profile-trophy)
-![Altテキスト](github-user-contribution.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
