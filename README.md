@@ -11,7 +11,7 @@
 <a href="https://ts.org/index.html" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
 ### I have very little experience.
 
-<a   target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
+
 <a   target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
 <a   target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
 <a   target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=000000" alt="python" width="40" height="40"/> </a>
